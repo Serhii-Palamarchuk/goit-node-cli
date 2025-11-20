@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "Домашнє завдання. Тема 2. Створення консольних додатків",
+  "homepage": "https://github.com/Serhii-Palamarchuk/goit-node-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Serhii-Palamarchuk/goit-node-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-Palamarchuk/goit-node-cli.git"
+  },
+  "license": "MIT",
+  "author": "Serhii Palamarchuk <serhiy.palamarchuk@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
