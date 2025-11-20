@@ -12,12 +12,13 @@
   },
   "license": "MIT",
   "author": "Serhii Palamarchuk <serhiy.palamarchuk@gmail.com>",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "commander": "^14.0.2"
+    "commander": "^14.0.2",
+    "nanoid": "^5.1.6"
   }
 }
